@@ -1,3 +1,9 @@
+# 그래프 머신 러닝 [한글판]
+
+이 페이지는 아래의 Graph Machine Learning 한국어 번역판을 다루고 있습니다.
+
+원본 깃 저장소에서 가져와 주석을 번역하고 일부 코드 오류를 수정한 버전입니다.
+
 ## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B16069?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
 -----
 For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
